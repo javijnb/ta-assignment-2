@@ -1,0 +1,256 @@
+[
+    {
+        "apparel": {
+            "Average number of stars for the product category": 3.0447862238964016,
+            "Language with the maximum number of reviews for this product category": "en",
+            "Total number of different products": 50533,
+            "Total number of reviews per category": 57607
+        }
+    },
+    {
+        "automotive": {
+            "Average number of stars for the product category": 2.964199788278318,
+            "Language with the maximum number of reviews for this product category": "ja",
+            "Total number of different products": 34135,
+            "Total number of reviews per category": 41564
+        }
+    },
+    {
+        "baby_product": {
+            "Average number of stars for the product category": 3.0611204080006376,
+            "Language with the maximum number of reviews for this product category": "zh",
+            "Total number of different products": 19088,
+            "Total number of reviews per category": 25098
+        }
+    },
+    {
+        "beauty": {
+            "Average number of stars for the product category": 2.926139598436255,
+            "Language with the maximum number of reviews for this product category": "en",
+            "Total number of different products": 41836,
+            "Total number of reviews per category": 52694
+        }
+    },
+    {
+        "book": {
+            "Average number of stars for the product category": 3.1068761976080874,
+            "Language with the maximum number of reviews for this product category": "zh",
+            "Total number of different products": 66632,
+            "Total number of reviews per category": 90806
+        }
+    },
+    {
+        "camera": {
+            "Average number of stars for the product category": 3.0606729547126896,
+            "Language with the maximum number of reviews for this product category": "ja",
+            "Total number of different products": 12194,
+            "Total number of reviews per category": 14949
+        }
+    },
+    {
+        "digital_video_download": {
+            "Average number of stars for the product category": 2.7630116959064326,
+            "Language with the maximum number of reviews for this product category": "de",
+            "Total number of different products": 5590,
+            "Total number of reviews per category": 6840
+        }
+    },
+    {
+        "drugstore": {
+            "Average number of stars for the product category": 2.959112247464163,
+            "Language with the maximum number of reviews for this product category": "en",
+            "Total number of different products": 38535,
+            "Total number of reviews per category": 47716
+        }
+    },
+    {
+        "electronics": {
+            "Average number of stars for the product category": 2.9309906291834005,
+            "Language with the maximum number of reviews for this product category": "es",
+            "Total number of different products": 35103,
+            "Total number of reviews per category": 44820
+        }
+    },
+    {
+        "furniture": {
+            "Average number of stars for the product category": 3.0265637530072174,
+            "Language with the maximum number of reviews for this product category": "de",
+            "Total number of different products": 16263,
+            "Total number of reviews per category": 19952
+        }
+    },
+    {
+        "global": {
+            "Total number of reviews per language": {
+                "es": 200000,
+                "en": 200000,
+                "fr": 200000,
+                "de": 200000,
+                "ja": 200000,
+                "zh": 200000
+            },
+            "Minimum Number of characters for all the reviews": 11,
+            "Total number of reviews with 5 stars": 240000
+        }
+    },
+    {
+        "grocery": {
+            "Average number of stars for the product category": 2.907918036933974,
+            "Language with the maximum number of reviews for this product category": "zh",
+            "Total number of different products": 18725,
+            "Total number of reviews per category": 23718
+        }
+    },
+    {
+        "home": {
+            "Average number of stars for the product category": 3.003827955966618,
+            "Language with the maximum number of reviews for this product category": "fr",
+            "Total number of different products": 102811,
+            "Total number of reviews per category": 126177
+        }
+    },
+    {
+        "home_improvement": {
+            "Average number of stars for the product category": 3.0044873233116447,
+            "Language with the maximum number of reviews for this product category": "fr",
+            "Total number of different products": 43464,
+            "Total number of reviews per category": 53484
+        }
+    },
+    {
+        "industrial_supplies": {
+            "Average number of stars for the product category": 3.0076745035936168,
+            "Language with the maximum number of reviews for this product category": "ja",
+            "Total number of different products": 6934,
+            "Total number of reviews per category": 8209
+        }
+    },
+    {
+        "jewelry": {
+            "Average number of stars for the product category": 2.982347449715692,
+            "Language with the maximum number of reviews for this product category": "en",
+            "Total number of different products": 10023,
+            "Total number of reviews per category": 11783
+        }
+    },
+    {
+        "kitchen": {
+            "Average number of stars for the product category": 3.12837640460379,
+            "Language with the maximum number of reviews for this product category": "ja",
+            "Total number of different products": 40768,
+            "Total number of reviews per category": 51349
+        }
+    },
+    {
+        "lawn_and_garden": {
+            "Average number of stars for the product category": 2.8586539246916605,
+            "Language with the maximum number of reviews for this product category": "de",
+            "Total number of different products": 20326,
+            "Total number of reviews per category": 24486
+        }
+    },
+    {
+        "luggage": {
+            "Average number of stars for the product category": 3.2470477432442224,
+            "Language with the maximum number of reviews for this product category": "es",
+            "Total number of different products": 11271,
+            "Total number of reviews per category": 13803
+        }
+    },
+    {
+        "musical_instruments": {
+            "Average number of stars for the product category": 3.089494787489976,
+            "Language with the maximum number of reviews for this product category": "es",
+            "Total number of different products": 5084,
+            "Total number of reviews per category": 6235
+        }
+    },
+    {
+        "office_product": {
+            "Average number of stars for the product category": 3.0634590672008466,
+            "Language with the maximum number of reviews for this product category": "en",
+            "Total number of different products": 21752,
+            "Total number of reviews per category": 26458
+        }
+    },
+    {
+        "other": {
+            "Average number of stars for the product category": 3.034575225439013,
+            "Language with the maximum number of reviews for this product category": "en",
+            "Total number of different products": 34646,
+            "Total number of reviews per category": 42140
+        }
+    },
+    {
+        "pc": {
+            "Average number of stars for the product category": 2.964731074442625,
+            "Language with the maximum number of reviews for this product category": "ja",
+            "Total number of different products": 43790,
+            "Total number of reviews per category": 55573
+        }
+    },
+    {
+        "personal_care_appliances": {
+            "Average number of stars for the product category": 2.972440152886743,
+            "Language with the maximum number of reviews for this product category": "es",
+            "Total number of different products": 7603,
+            "Total number of reviews per category": 9942
+        }
+    },
+    {
+        "pet_products": {
+            "Average number of stars for the product category": 2.95307271067843,
+            "Language with the maximum number of reviews for this product category": "en",
+            "Total number of different products": 21774,
+            "Total number of reviews per category": 26296
+        }
+    },
+    {
+        "shoes": {
+            "Average number of stars for the product category": 3.1434956843403206,
+            "Language with the maximum number of reviews for this product category": "zh",
+            "Total number of different products": 28192,
+            "Total number of reviews per category": 32440
+        }
+    },
+    {
+        "sports": {
+            "Average number of stars for the product category": 3.0426982089369767,
+            "Language with the maximum number of reviews for this product category": "ja",
+            "Total number of different products": 54002,
+            "Total number of reviews per category": 65436
+        }
+    },
+    {
+        "toy": {
+            "Average number of stars for the product category": 2.9922565012027884,
+            "Language with the maximum number of reviews for this product category": "es",
+            "Total number of different products": 46465,
+            "Total number of reviews per category": 56951
+        }
+    },
+    {
+        "video_games": {
+            "Average number of stars for the product category": 2.8922424242424243,
+            "Language with the maximum number of reviews for this product category": "ja",
+            "Total number of different products": 6623,
+            "Total number of reviews per category": 8250
+        }
+    },
+    {
+        "watch": {
+            "Average number of stars for the product category": 2.9085383502170767,
+            "Language with the maximum number of reviews for this product category": "zh",
+            "Total number of different products": 7971,
+            "Total number of reviews per category": 10365
+        }
+    },
+    {
+        "wireless": {
+            "Average number of stars for the product category": 2.8012810074363568,
+            "Language with the maximum number of reviews for this product category": "fr",
+            "Total number of different products": 86627,
+            "Total number of reviews per category": 110538
+        }
+    }
+]
